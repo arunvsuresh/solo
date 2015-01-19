@@ -1,4 +1,4 @@
-# Project Name #
+Node Docs Search
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,28 +17,30 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  Node Docs Search
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  
+  Product is for Node developers who want to quickly search through Node docs.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  
+  This product allows Node developers to quickly search and filter for docs without having to scour through the mounds of documentation on Node's site.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  The problem with Node documentation is that it is massive. There are hundreds of pages of docs that a developer will easily get lost in.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  By allowing a developer to search and filter for the specific doc straight from the Chrome omnibox, he or she will save much needed coding time.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  "Quickly and easily filter through Node docs from Chrome's omnibox without the hassle of going through Node's site itself."
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  Simply download the plugin from the Chrome webstore and search away.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  "I was able to search for a specific file write function without having to go through Node's site."
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  Go to the Chrome store and see it in action!
