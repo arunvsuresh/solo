@@ -1,0 +1,29 @@
+/*.course {
+	text-align: center;
+	padding-left: 50%;
+}
+
+.university {
+	text-align: center;
+}
+
+.category {
+	text-align: center;
+}
+
+.instructor {
+	text-align: center;
+}
+
+.session {
+	text-align: center;
+}*/
+
+div {
+	margin: 0 auto;
+	width: 26px;
+}
+
+html {
+	background-image: url("coursera.png");
+}

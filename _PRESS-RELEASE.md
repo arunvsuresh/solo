@@ -1,4 +1,4 @@
-Node Docs Search
+Coursera Search
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,30 +17,30 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  Node Docs Search
+  Coursera Search
 
 ## Sub-Heading ##
   
-  Product is for Node developers who want to quickly search through Node docs.
+  Product is for individuals to search through Coursera's database of course information.
 
 ## Summary ##
   
-  This product allows Node developers to quickly search and filter for docs without having to scour through the mounds of documentation on Node's site.
+  This product allows people to quickly search and filter for relevant Coursera course information.
 
 ## Problem ##
-  The problem with Node documentation is that it is massive. There are hundreds of pages of docs that a developer will easily get lost in.
+  The problem with Coursera is that there is too much information to easily filter through.
 
 ## Solution ##
-  By allowing a developer to search and filter for the specific doc straight from the Chrome omnibox, he or she will save much needed coding time.
+  By allowing someone to search and filter for the specific course information, he or she will save much needed time.
 
 ## Quote from You ##
-  "Quickly and easily filter through Node docs from Chrome's omnibox without the hassle of going through Node's site itself."
+  "Quickly and easily filter through Coursera information."
 
 ## How to Get Started ##
-  Simply download the plugin from the Chrome webstore and search away.
+  Simply visit the site search away.
 
 ## Customer Quote ##
-  "I was able to search for a specific file write function without having to go through Node's site."
+  "I was able to search for a specific course so easily."
 
 ## Closing and Call to Action ##
-  Go to the Chrome store and see it in action!
+  Go to the www.example.com and see it in action!
